@@ -21,11 +21,5 @@ namespace _172_Desafio_OutRefIn
             DrawUtils.Rectangle(screenWidth, screenHeight, screenStartX, screenStartY, ConsoleColor.Red);
             DrawUtils.Rectangle(player.RectSize.X, player.RectSize.Y, player.Position.X, player.Position.Y);
         }
-
-        public void GetScreenBounds(out Vector2 start, out Vector2 end)
-        {
-            start = new Vector2(screenStartX, screenStartY);
-            end = new Vector2(screenStartX + screenWidth, screenStartY + screenHeight);
-        }
     }
 }
