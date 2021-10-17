@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9519Yq6fuzJ7JT0z0D0g1y4RgEGcW7B/qyFWmy3zueq/BGVjvdzoTrALhfqvDbBSDHh+XYm7i+XIHBxbizhgg==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\172_Desafio_OutRefIn\\172_Desafio_OutRefIn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
