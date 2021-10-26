@@ -1,0 +1,16 @@
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\bin\Debug\net5.0\183_0_Heranca.exe
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\bin\Debug\net5.0\183_0_Heranca.deps.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\bin\Debug\net5.0\183_0_Heranca.runtimeconfig.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\bin\Debug\net5.0\183_0_Heranca.runtimeconfig.dev.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\bin\Debug\net5.0\183_0_Heranca.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\bin\Debug\net5.0\ref\183_0_Heranca.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\bin\Debug\net5.0\183_0_Heranca.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\obj\Debug\net5.0\183_0_Heranca.csprojAssemblyReference.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\obj\Debug\net5.0\183_0_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\obj\Debug\net5.0\183_0_Heranca.AssemblyInfoInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\obj\Debug\net5.0\183_0_Heranca.AssemblyInfo.cs
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\obj\Debug\net5.0\183_0_Heranca.csproj.CoreCompileInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\obj\Debug\net5.0\183_0_Heranca.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\obj\Debug\net5.0\ref\183_0_Heranca.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\obj\Debug\net5.0\183_0_Heranca.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\183_0_Heranca\obj\Debug\net5.0\183_0_Heranca.genruntimeconfig.cache
