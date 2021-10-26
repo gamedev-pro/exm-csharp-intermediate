@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1-ref\\51_Desafio_Classes_2\\51_Desafio_Classes_2.csproj",
+      "projectUniqueName": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\183_Heranca\\51_Desafio_Classes_2.csproj",
       "projectName": "51_Desafio_Classes_2",
-      "projectPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1-ref\\51_Desafio_Classes_2\\51_Desafio_Classes_2.csproj",
+      "projectPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\183_Heranca\\51_Desafio_Classes_2.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1-ref\\51_Desafio_Classes_2\\obj\\",
+      "outputPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\183_Heranca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

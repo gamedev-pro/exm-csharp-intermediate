@@ -6,7 +6,7 @@ namespace _51_Desafio_Classes_2
     public class Player
     {
         public int Money { get; private set; }
-        public List<Item> Inventory { get; private set; };
+        public List<Item> Inventory { get; private set; }
 
         public Player(int money)
         {
@@ -32,9 +32,34 @@ namespace _51_Desafio_Classes_2
             {
                 Inventory.Add(item);
                 Money -= item.Price;
+
+                TryUseItem(Inventory.Count - 1);
+                TryEquipWeapon(Inventory.Count - 1);
                 return true;
             }
             return false;
+        }
+
+        public void TryUseItem(int itemIndex)
+        {
+            if (itemIndex >= 0 && itemIndex < Inventory.Count)
+            {
+                if (Inventory[itemIndex] is ConsumableItem consumable)
+                {
+                    consumable.Use();
+                }
+            }
+        }
+
+        public void TryEquipWeapon(int itemIndex)
+        {
+            if (itemIndex >= 0 && itemIndex < Inventory.Count)
+            {
+                if (Inventory[itemIndex] is EquipableItem equipable)
+                {
+                    equipable.Equip();
+                }
+            }
         }
 
         public void PrintPlayerItems()

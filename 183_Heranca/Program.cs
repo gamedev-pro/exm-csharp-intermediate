@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Player player = new Player(5);
+            Player player = new Player(20);
             var store = new Store();
 
             store.PrintGreetings();

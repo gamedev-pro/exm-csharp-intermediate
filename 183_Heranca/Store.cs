@@ -13,7 +13,10 @@ namespace _51_Desafio_Classes_2
             {
                 new Item("Pao de Queijo",1),
                 new Item("Acaraje",3),
-                new Item("Feijoada",3)
+                new Item("Feijoada",3),
+                new ConsumableItem("Health Potion", 10, 2),
+                new Weapon("Axe", 7, 2),
+                new Shield("Wood Shield", 4, 1)
             };
         }
 
