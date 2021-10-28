@@ -1,0 +1,16 @@
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\bin\Debug\net5.0\189_Interfaces.exe
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\bin\Debug\net5.0\189_Interfaces.deps.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\bin\Debug\net5.0\189_Interfaces.runtimeconfig.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\bin\Debug\net5.0\189_Interfaces.runtimeconfig.dev.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\bin\Debug\net5.0\189_Interfaces.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\bin\Debug\net5.0\ref\189_Interfaces.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\bin\Debug\net5.0\189_Interfaces.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\obj\Debug\net5.0\189_Interfaces.csprojAssemblyReference.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\obj\Debug\net5.0\189_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\obj\Debug\net5.0\189_Interfaces.AssemblyInfoInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\obj\Debug\net5.0\189_Interfaces.AssemblyInfo.cs
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\obj\Debug\net5.0\189_Interfaces.csproj.CoreCompileInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\obj\Debug\net5.0\189_Interfaces.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\obj\Debug\net5.0\ref\189_Interfaces.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\obj\Debug\net5.0\189_Interfaces.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\189_Interfaces\obj\Debug\net5.0\189_Interfaces.genruntimeconfig.cache
