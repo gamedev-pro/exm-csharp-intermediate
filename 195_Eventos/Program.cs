@@ -12,18 +12,25 @@ namespace _195_Eventos
         protected abstract void OnDestroy();
     }
 
-    // delegate -> ponteiros para funcao (C# ele eh um objeto que guarda um ponteiro da funcao)
-    public delegate void LevelUpEventDelegate(Player player);//Definindo um tipo
+    public struct LevelUpEventArgs
+    {
+        public Player Player;
+        public int PreviousLevel;
+    }
 
     public class Player
     {
-        public event LevelUpEventDelegate LevelUpEvent;
+        public event EventHandler<LevelUpEventArgs> LevelUpEvent;
         public int Level { get; private set; }
 
         public void GainXP()
         {
             Level++;
-            LevelUpEvent?.Invoke(this);
+            LevelUpEvent?.Invoke(this, new LevelUpEventArgs()
+            {
+                Player = this,
+                PreviousLevel = Level - 1
+            });
         }
     }
 
@@ -41,9 +48,9 @@ namespace _195_Eventos
             this.player.LevelUpEvent -= OnPlayerLevelUp;//Desinscrevendo do evento
         }
 
-        private void OnPlayerLevelUp(Player player)
+        private void OnPlayerLevelUp(object sender, LevelUpEventArgs args)
         {
-            Console.WriteLine($"Achievements Response (Player Level Up): {player.Level}");
+            Console.WriteLine($"Achievements Response (Player Level Up): {args.Player.Level}");
         }
 
     }
