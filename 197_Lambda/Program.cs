@@ -26,22 +26,6 @@ namespace _197_Lambda
             return sum;
         }
 
-        //Filtro
-        static bool IsEven(int number)
-        {
-            return number % 2 == 0;
-        }
-
-        static bool IsOdd(int number)
-        {
-            return number % 2 != 0;
-        }
-
-        static bool IsNegative(int number)
-        {
-            return number < 0;
-        }
-
         static void Main(string[] args)
         {
             int[] numbers = new int[]
@@ -49,21 +33,32 @@ namespace _197_Lambda
                 1, 2, 3, -4, 100, 485
             };
 
-            //Soma dos numeros que sao par
-            //Operacao, apenas em numeros especificos
-            //-> Filtra, Executa a operacao
-            int sumEven = SumWhere(numbers, IsEven);
 
-            Console.WriteLine($"Soma dos pares: {sumEven}");
+            Func<int, bool> isEven = (n) =>
+            {
+                return n % 2 == 0;
+            };
 
-            int sumOdd = SumWhere(numbers, IsOdd);
+            //Local function
+            bool IsEven(int n)
+            {
+                //ddfasfjka
+                return n % 2 == 0;
+            }
 
-            Console.WriteLine($"Soma dos Impares: {sumOdd}");
+            bool IsEven2(int n) => n % 2 == 0;
 
-            int sumNegative = SumWhere(numbers, IsNegative);
+            int sumEven = SumWhere(numbers, IsEven2);
 
-            Console.WriteLine($"Soma dos negativos: {sumNegative}");
 
+            int sumOdd = SumWhere(numbers, (n) =>
+            {
+                return n % 2 != 0;
+            });
+
+            int sumNegative = SumWhere(numbers, n => n < 0);
+
+            Console.WriteLine($"{sumEven}, {sumOdd}, {sumNegative}");
             Console.ReadKey();
         }
     }
