@@ -1,0 +1,16 @@
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\bin\Debug\net5.0\197_Lambda.exe
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\bin\Debug\net5.0\197_Lambda.deps.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\bin\Debug\net5.0\197_Lambda.runtimeconfig.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\bin\Debug\net5.0\197_Lambda.runtimeconfig.dev.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\bin\Debug\net5.0\197_Lambda.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\bin\Debug\net5.0\ref\197_Lambda.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\bin\Debug\net5.0\197_Lambda.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\obj\Debug\net5.0\197_Lambda.csprojAssemblyReference.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\obj\Debug\net5.0\197_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\obj\Debug\net5.0\197_Lambda.AssemblyInfoInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\obj\Debug\net5.0\197_Lambda.AssemblyInfo.cs
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\obj\Debug\net5.0\197_Lambda.csproj.CoreCompileInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\obj\Debug\net5.0\197_Lambda.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\obj\Debug\net5.0\ref\197_Lambda.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\obj\Debug\net5.0\197_Lambda.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\197_Lambda\obj\Debug\net5.0\197_Lambda.genruntimeconfig.cache
