@@ -2,28 +2,17 @@
 
 namespace _197_Lambda
 {
-    //Evento -> array de ponteiro para funcoes.
-    //A.MyEvent.Invoke() <- B, C, D, E
-
-    //Uma funcao como parametro de outra funcao?
-    // Callbacks, Strategy, Processamento de Colecoes (LINQ) 
-
     class Program
     {
-        //Action -> nao retonra nenhum valor
-        //Func -> sempre retorna valor
-
-        static int SumWhere(int[] numbers, Func<int, bool> filter)
+        static void ExecuteWhere(int[] numbers, Func<int, bool> filter, Action<int> action)
         {
-            int sum = 0;
             foreach (int number in numbers)
             {
                 if (filter(number))//filtro
                 {
-                    sum += number;
+                    action(number);
                 }
             }
-            return sum;
         }
 
         static void Main(string[] args)
@@ -33,32 +22,19 @@ namespace _197_Lambda
                 1, 2, 3, -4, 100, 485
             };
 
+            int sumEven = 0;
+            ExecuteWhere(
+                numbers,
+                n => n % 2 == 0,
+                n => sumEven += n);
 
-            Func<int, bool> isEven = (n) =>
-            {
-                return n % 2 == 0;
-            };
+            int subtractionEven = 0;
+            ExecuteWhere(
+                numbers,
+                n => n % 2 == 0,
+                n => subtractionEven -= n);
 
-            //Local function
-            bool IsEven(int n)
-            {
-                //ddfasfjka
-                return n % 2 == 0;
-            }
-
-            bool IsEven2(int n) => n % 2 == 0;
-
-            int sumEven = SumWhere(numbers, IsEven2);
-
-
-            int sumOdd = SumWhere(numbers, (n) =>
-            {
-                return n % 2 != 0;
-            });
-
-            int sumNegative = SumWhere(numbers, n => n < 0);
-
-            Console.WriteLine($"{sumEven}, {sumOdd}, {sumNegative}");
+            Console.WriteLine($"{sumEven}, {subtractionEven}");
             Console.ReadKey();
         }
     }
