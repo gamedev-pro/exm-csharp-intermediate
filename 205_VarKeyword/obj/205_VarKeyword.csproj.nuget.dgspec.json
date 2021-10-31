@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\200_GenericsConstraints\\200_GenericsConstraints.csproj": {}
+    "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\205_VarKeyword\\205_VarKeyword.csproj": {}
   },
   "projects": {
-    "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\200_GenericsConstraints\\200_GenericsConstraints.csproj": {
+    "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\205_VarKeyword\\205_VarKeyword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\200_GenericsConstraints\\200_GenericsConstraints.csproj",
-        "projectName": "200_GenericsConstraints",
-        "projectPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\200_GenericsConstraints\\200_GenericsConstraints.csproj",
+        "projectUniqueName": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\205_VarKeyword\\205_VarKeyword.csproj",
+        "projectName": "205_VarKeyword",
+        "projectPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\205_VarKeyword\\205_VarKeyword.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\200_GenericsConstraints\\obj\\",
+        "outputPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\205_VarKeyword\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
