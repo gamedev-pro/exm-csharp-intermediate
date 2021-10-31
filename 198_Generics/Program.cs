@@ -1,64 +1,47 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _198_Generics
 {
     class Program
     {
-        static void ExecuteWhere<T>(T[] numbers, Func<T, bool> filter, Action<T> action)
+        public class MyList<T>
         {
-            foreach (T number in numbers)
+            T[] array = new T[0];
+
+            public void Add(T item)
             {
-                if (filter(number))//filtro
-                {
-                    action(number);
-                }
+                //[1, 2, 3, -4, 100, 485] + 4 bytes -> coloca um elemento na ultima posicao
+                //[1, 2, 3, -4, 100, 485, _]
+                Array.Resize(ref array, array.Length + 1);
+                array[array.Length - 1] = item;
             }
+
+            public T[] ToArray() => array;
         }
 
-        static T DatabaseLookup<T>(string id)
+        static void Print<T>(T[] collection)
         {
-            return default(T);
-        }
-
-        struct Vector3 //POD 
-        {
-            public float X, Y, Z;
-
-            public Vector3(float x, float y, float z)
-            {
-                X = x;
-                Y = y;
-                Z = z;
-            }
+            string content = string.Join(", ", collection);
+            Console.WriteLine(content);
         }
 
         static void Main(string[] args)
         {
-            double[] numbers = new double[]
+            List<int> numbers = new List<int>()
             {
                 1, 2, 3, -4, 100, 485
             };
 
-            double sumEven = 0;
-            ExecuteWhere(
-                numbers,
-                n => n % 2 == 0,
-                n => sumEven += n);
+            MyList<int> myNumbers = new MyList<int>();
+            myNumbers.Add(1);
+            myNumbers.Add(2);
+            myNumbers.Add(3);
+            myNumbers.Add(-4);
 
-            Vector3[] vectors = new Vector3[]
-            {
-                new Vector3(1, 3, 4), new Vector3(1.3f, 5, -203.0f)
-            };
+            Print(numbers.ToArray());
+            Print(myNumbers.ToArray());
 
-            Vector3 sumVectors = new Vector3();
-            ExecuteWhere(
-                vectors,
-                v => true,
-                v => sumVectors = new Vector3(sumVectors.X + v.X, sumVectors.Y + v.Y, sumVectors.Z + v.Z));
-
-            float data = DatabaseLookup<float>("id_data");
-
-            Console.WriteLine($"{sumEven}, ({sumVectors.X}, {sumVectors.Y}, {sumVectors.Z})");
             Console.ReadKey();
         }
     }
