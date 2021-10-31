@@ -5,40 +5,52 @@ namespace _200_GenericsConstraints
 {
     class Program
     {
-        static void SetElementsToNull<T>(T[] elements) where T : class
+        public class Monobehaviour
         {
-            for (int i = 0; i < elements.Length; i++)
+            public void SetActive(bool isActive)
             {
-                elements[i] = null;//"Destruir" o objeto
+                //TODO: Implement function
             }
         }
 
-        static void FillList<T>(List<T> elements, int numberOfElementsToCreate) where T : new()
+        //Object Pool -> "Balde" de objetos que podem ser re-usados
+        //E isso melhora a performance em situacoes onde voce tem que "criar" e "destruir" muitos objetos
+        public class Pool<T> where T : Monobehaviour, new()
         {
-            elements.Clear();
-            for (int i = 0; i < numberOfElementsToCreate; i++)
+            List<T> objects = new List<T>();
+
+            public T GetOrCreate()
             {
-                T element = new T();
-                elements.Add(element);
+                if (objects.Count > 0)
+                {
+                    T obj = objects[objects.Count - 1];
+                    objects.RemoveAt(objects.Count - 1);
+                    obj.SetActive(true);
+                    return obj;
+                }
+                else
+                {
+                    return new T();
+                }
+            }
+
+            public void ReturnToPool(T obj)
+            {
+                if (obj != null)
+                {
+                    obj.SetActive(false);
+                    objects.Add(obj);
+                }
             }
         }
 
-        public class Weapon
+        public class Weapon : Monobehaviour
         {
-            public Weapon(int damage, int rarity)
-            {
-
-            }
         }
 
         static void Main(string[] args)
         {
-            string[] names = new string[] { "name1", "name2" };
-            SetElementsToNull(names);
-
-            List<Weapon> weapons = new List<Weapon>();
-            FillList(weapons, 10);
-
+            Pool<Weapon> weaponPool = new Pool<Weapon>();
             Console.WriteLine("Hello World!");
         }
     }
