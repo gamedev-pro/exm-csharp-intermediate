@@ -1,0 +1,16 @@
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\bin\Debug\net5.0\198_Generics.exe
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\bin\Debug\net5.0\198_Generics.deps.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\bin\Debug\net5.0\198_Generics.runtimeconfig.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\bin\Debug\net5.0\198_Generics.runtimeconfig.dev.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\bin\Debug\net5.0\198_Generics.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\bin\Debug\net5.0\ref\198_Generics.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\bin\Debug\net5.0\198_Generics.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\obj\Debug\net5.0\198_Generics.csprojAssemblyReference.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\obj\Debug\net5.0\198_Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\obj\Debug\net5.0\198_Generics.AssemblyInfoInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\obj\Debug\net5.0\198_Generics.AssemblyInfo.cs
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\obj\Debug\net5.0\198_Generics.csproj.CoreCompileInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\obj\Debug\net5.0\198_Generics.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\obj\Debug\net5.0\ref\198_Generics.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\obj\Debug\net5.0\198_Generics.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\198_Generics\obj\Debug\net5.0\198_Generics.genruntimeconfig.cache
