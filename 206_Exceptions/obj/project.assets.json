@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\205_VarKeyword\\205_VarKeyword.csproj",
-      "projectName": "205_VarKeyword",
-      "projectPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\205_VarKeyword\\205_VarKeyword.csproj",
+      "projectUniqueName": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\206_Exceptions\\206_Exceptions.csproj",
+      "projectName": "206_Exceptions",
+      "projectPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\206_Exceptions\\206_Exceptions.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\205_VarKeyword\\obj\\",
+      "outputPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-intermediate\\206_Exceptions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

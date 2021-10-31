@@ -1,0 +1,16 @@
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\bin\Debug\net5.0\206_Exceptions.exe
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\bin\Debug\net5.0\206_Exceptions.deps.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\bin\Debug\net5.0\206_Exceptions.runtimeconfig.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\bin\Debug\net5.0\206_Exceptions.runtimeconfig.dev.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\bin\Debug\net5.0\206_Exceptions.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\bin\Debug\net5.0\ref\206_Exceptions.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\bin\Debug\net5.0\206_Exceptions.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\obj\Debug\net5.0\206_Exceptions.csprojAssemblyReference.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\obj\Debug\net5.0\206_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\obj\Debug\net5.0\206_Exceptions.AssemblyInfoInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\obj\Debug\net5.0\206_Exceptions.AssemblyInfo.cs
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\obj\Debug\net5.0\206_Exceptions.csproj.CoreCompileInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\obj\Debug\net5.0\206_Exceptions.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\obj\Debug\net5.0\ref\206_Exceptions.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\obj\Debug\net5.0\206_Exceptions.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\206_Exceptions\obj\Debug\net5.0\206_Exceptions.genruntimeconfig.cache
