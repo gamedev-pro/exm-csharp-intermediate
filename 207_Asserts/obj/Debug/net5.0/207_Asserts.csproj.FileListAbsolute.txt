@@ -1,0 +1,16 @@
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\bin\Debug\net5.0\207_Asserts.exe
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\bin\Debug\net5.0\207_Asserts.deps.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\bin\Debug\net5.0\207_Asserts.runtimeconfig.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\bin\Debug\net5.0\207_Asserts.runtimeconfig.dev.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\bin\Debug\net5.0\207_Asserts.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\bin\Debug\net5.0\ref\207_Asserts.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\bin\Debug\net5.0\207_Asserts.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\obj\Debug\net5.0\207_Asserts.csprojAssemblyReference.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\obj\Debug\net5.0\207_Asserts.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\obj\Debug\net5.0\207_Asserts.AssemblyInfoInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\obj\Debug\net5.0\207_Asserts.AssemblyInfo.cs
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\obj\Debug\net5.0\207_Asserts.csproj.CoreCompileInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\obj\Debug\net5.0\207_Asserts.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\obj\Debug\net5.0\ref\207_Asserts.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\obj\Debug\net5.0\207_Asserts.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\207_Asserts\obj\Debug\net5.0\207_Asserts.genruntimeconfig.cache
