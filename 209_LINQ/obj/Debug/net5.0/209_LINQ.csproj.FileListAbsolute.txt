@@ -1,0 +1,16 @@
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\bin\Debug\net5.0\209_LINQ.exe
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\bin\Debug\net5.0\209_LINQ.deps.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\bin\Debug\net5.0\209_LINQ.runtimeconfig.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\bin\Debug\net5.0\209_LINQ.runtimeconfig.dev.json
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\bin\Debug\net5.0\209_LINQ.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\bin\Debug\net5.0\ref\209_LINQ.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\bin\Debug\net5.0\209_LINQ.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\obj\Debug\net5.0\209_LINQ.csprojAssemblyReference.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\obj\Debug\net5.0\209_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\obj\Debug\net5.0\209_LINQ.AssemblyInfoInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\obj\Debug\net5.0\209_LINQ.AssemblyInfo.cs
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\obj\Debug\net5.0\209_LINQ.csproj.CoreCompileInputs.cache
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\obj\Debug\net5.0\209_LINQ.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\obj\Debug\net5.0\ref\209_LINQ.dll
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\obj\Debug\net5.0\209_LINQ.pdb
+D:\dev\src\github.com\gamedev-pro\exm-csharp-intermediate\209_LINQ\obj\Debug\net5.0\209_LINQ.genruntimeconfig.cache
